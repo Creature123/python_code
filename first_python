@@ -1,0 +1,29 @@
+
+
+height = int(input("please enter height of the rectangle :"))
+width = int(input("please enter width of the rectangle :"))
+
+
+area = height * width
+
+print('the height of the rectangle is :', height)
+
+print('the width of the rectangle is :', width)
+
+print('area of the rectangle is :', area)
+
+if area > 40:
+
+    print('the rectangle is big enough!!')
+
+else:
+
+    print('the rectangle is okay to implement')
+
+
+for i in range(10):
+    print(i)
+
+
+
+
